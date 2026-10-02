@@ -2264,4 +2264,3 @@ ID,Delivery_person_ID,Delivery_person_Age,Delivery_person_Ratings,Weather,Road_t
 0xcafe_y,ALHRES13DEL02,32,4.8,Stormy,Low,2,Buffet,bicycle,1,1,Metropolitian,29.0,19.471476176410082,10.0,22
 0x8c03_y,COIMBRES09DEL01,34,5.0,Sandstorms,Medium,1,Buffet,scooter,1,1,Metropolitian,22.0,10.90628903651029,15.0,18
 0xceec_y,KNPRES04DEL03,37,4.6,Fog,Medium,0,Buffet,scooter,1,1,Semi-Urban,28.0,4.476870823146776,10.0,17
-0x38c6_x,JAPRES11DEL01,24,4.8,Windy,High,2,Meal,motorcycle,0,1,Metropolitian,12.0,5.959018323622379,5.0,13

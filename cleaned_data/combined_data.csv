@@ -2264,7 +2264,6 @@ ID,Delivery_person_Age,Delivery_person_Ratings,Weather,Road_traffic_density,Vehi
 0xcafe_y,32.0,4.8,Stormy,Low,2,Buffet,bicycle,1,No,Metropolitian,19.471476176410082,10.0,22,29.0,Actual (Training)
 0x8c03_y,34.0,5.0,Sandstorms,Medium,1,Buffet,scooter,1,No,Metropolitian,10.90628903651029,15.0,18,22.0,Actual (Training)
 0xceec_y,37.0,4.6,Fog,Medium,0,Buffet,scooter,1,No,Semi-Urban,4.476870823146776,10.0,17,28.0,Actual (Training)
-0x38c6_x,24.0,4.8,Windy,High,2,Meal,motorcycle,0,No,Metropolitian,5.959018323622379,5.0,13,12.0,Actual (Training)
 0x2318,30.0,4.7,Sunny,Low,3,Drinks,electric_scooter,1,No,Metropolitian,6.232373129283698,1245.0,18,27.53471565246582,Predicted (Test)
 0x3474,28.0,4.6,Windy,Jam,0,Snack,motorcycle,1,No,Metropolitian,17.07661742698135,5.0,20,25.563514709472656,Predicted (Test)
 0x9420,23.0,4.5,Stormy,Jam,0,Drinks,motorcycle,1,No,Metropolitian,13.406029476290724,10.0,19,27.53471565246582,Predicted (Test)
